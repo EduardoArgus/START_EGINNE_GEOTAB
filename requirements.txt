@@ -1,0 +1,6 @@
+mygeotab
+pandas
+streamlit
+folium
+streamlit-folium
+openpyxl
