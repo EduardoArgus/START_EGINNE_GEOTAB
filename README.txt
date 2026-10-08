@@ -43,10 +43,10 @@ Entradas: O script solicitará o nome da base, os SNs dos equipamentos (separado
 
 Saída: Arquivo Excel (.xlsx) consolidado com todas as viagens e coordenadas.
 
-2. Painel de Auditoria (app_auditoria.py)
+2. Painel de Auditoria (CRUZAMENTO.py)
 Aplicação Web para cruzar o relatório gerado pela Geotab com o relatório bruto do portal de Vídeo Telemetria.
 
-Como rodar: Execute python -m streamlit run app_auditoria.py no terminal.
+Como rodar: Execute python -m streamlit run CRUZAMENTO.py no terminal.
 
 Utilização: Faça o upload das duas planilhas na interface. O sistema calculará as seguintes métricas:
 
