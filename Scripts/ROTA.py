@@ -5,8 +5,8 @@ import sys
 import time
 
 # ================= Credenciais Fixas =================
-USERNAME = 'eduardo.costa@argusolutions.com.br'
-PASSWORD = 'Edu4rD0##0512'
+USERNAME = 'X'
+PASSWORD = 'X'
 SERVER = 'my.geotab.com'  
 
 # ================= Entradas pelo Terminal =================
